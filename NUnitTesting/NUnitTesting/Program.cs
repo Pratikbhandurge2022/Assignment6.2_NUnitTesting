@@ -7,9 +7,9 @@ namespace NUnitTestingPrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To NUnit Testing Programs!");
-            Console.WriteLine("Wending Machine program!");
-            VendingMachine vm = new VendingMachine();
-            vm.GiveChange(0);
+            //Console.WriteLine("Wending Machine program!");
+            //VendingMachine vm = new VendingMachine();
+            //vm.GiveChange(0);
 
             //Console.WriteLine("Welcome To Day Of Week Program!");
             //DayOfWeek dayOfWeek = new DayOfWeek();
@@ -27,8 +27,8 @@ namespace NUnitTestingPrograms
             //Sqrt s = new Sqrt();
             //s.Sqroot('0');
 
-            //Console.WriteLine("ToBinary Program!");
-            //ToBinary toBinary = new ToBinary();
+            Console.WriteLine("ToBinary Program!");
+            ToBinary toBinary = new ToBinary();
 
             //Console.WriteLine("Binary Program!");
             //Binary binary = new Binary();
