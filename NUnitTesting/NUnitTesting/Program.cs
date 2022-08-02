@@ -14,10 +14,10 @@ namespace NUnitTestingPrograms
             //Console.WriteLine("Welcome To Day Of Week Program!");
             //DayOfWeek dayOfWeek = new DayOfWeek();
 
-            //Console.WriteLine("Temperature Conversion Program");
-            //TemperatureConversion tc = new TemperatureConversion();
-            //tc.FahrenheitToC(0);
-            //tc.CelsiusToF(0);
+            Console.WriteLine("Temperature Conversion Program");
+            TemperatureConversion tc = new TemperatureConversion();
+            tc.FahrenheitToC(0);
+            tc.CelsiusToF(0);
 
             //Console.WriteLine("Monthly Payment Program!");
             //MonthlyPayment mp = new MonthlyPayment();
@@ -27,8 +27,8 @@ namespace NUnitTestingPrograms
             //Sqrt s = new Sqrt();
             //s.Sqroot('0');
 
-            Console.WriteLine("ToBinary Program!");
-            ToBinary toBinary = new ToBinary();
+            //console.writeline("tobinary program!");
+            //tobinary tobinary = new tobinary();
 
             //Console.WriteLine("Binary Program!");
             //Binary binary = new Binary();
