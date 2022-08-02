@@ -19,13 +19,13 @@ namespace NUnitTestingPrograms
             //tc.FahrenheitToC(0);
             //tc.CelsiusToF(0);
 
-            //Console.WriteLine("Monthly Payment Program!");
-            //MonthlyPayment mp = new MonthlyPayment();
-            //mp.Payment('p','y','r');
+            Console.WriteLine("Monthly Payment Program!");
+            MonthlyPayment mp = new MonthlyPayment();
+            mp.Payment('p', 'y', 'r');
 
-            Console.WriteLine("Sqrt Program!");
-            Sqrt s = new Sqrt();
-            s.Sqroot('0');
+            //Console.WriteLine("Sqrt Program!");
+            //Sqrt s = new Sqrt();
+            //s.Sqroot('0');
 
             //console.writeline("tobinary program!");
             //tobinary tobinary = new tobinary();
